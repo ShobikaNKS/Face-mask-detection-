@@ -22,3 +22,8 @@ Moving forward, there are several avenues for improvement, including fine-tuning
 ---
 
 This response highlights the role of OpenCV in various aspects of the face mask detection project, including data preprocessing, face detection, inference, and visualization, while also touching upon the integration with machine learning techniques for model training and evaluation.
+
+
+
+project data set link : 
+https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
